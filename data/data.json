@@ -1,4 +1,4 @@
-var data = [{
+data = [{
   greekName: "Amphitrite",
   greekSearchResults: 387000,
   pair: "Amphitrite-Salacia",
